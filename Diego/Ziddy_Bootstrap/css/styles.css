@@ -1,0 +1,22 @@
+.row_oferta{
+    margin-top: -2rem;
+}
+span{
+    font-weight: bold;
+}
+#iconos{
+    background-color: rgb(82, 82, 82);
+}
+/*header{
+    background: linear-gradient(
+        rgba(0,0,0,0.3),
+        rgba(0,0,0,0.3)
+    );
+}*/
+.imagen-activa{
+    box-shadow: 0 1rem 1.5rem -0.75rem black;
+}
+.resalto:hover{
+    scale: 1.05;
+    transition: all .5s ease 0s;
+}
